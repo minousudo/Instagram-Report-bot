@@ -6,8 +6,7 @@
 
 
 
-![Stars](https://img.shields.io/github/stars/ifeelscam/Instagram-Report-bot?style=social)
-![Forks](https://img.shields.io/github/forks/ifeelscam/Instagram-Report-bot?style=social)
+![Stars](https://img.shields.io/github/stars/ifeelscam/Instagram-Report-bot?scam/Instagram-Report-botwxv?style=social)
 
 
 <p align="center">REPORT ANY INSTAGRAM ACCOUNT.</p>
@@ -24,13 +23,14 @@
 
 ### Variables
 
-* `API_TOKEN` Your bot token from @BotFather
+* `API_TOKEN` Your bot token from @BotFat
 * `ADMIN_ID` Bot Admin I'd Get from <a href='t.me/PythonBotz'>@Pythonbotz</a>
 * `FORCE_JOIN_CHANNEL` Your Fsub channel Username Without @
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴍʏ ᴄʀᴇᴅɪᴛ...
+# ᴅᴏɴ'![Screenshot_20250817-152056](https://github.com/user-attachments/assets/9c1b7e88-59b1-4c1b-947a-e6c8b8588b72)
+ᴛ ʀᴇᴍᴏᴠᴇ ᴍʏ ᴄʀᴇᴅɪᴛ...
  
 </b>⋗  ᴄʀᴇᴅɪᴛ -  <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/analytics.webp" width="15px">   <b>[Trinity](https://t.me/SugerBaddie)</b> & <b>[Ben 10](https://t.me/metaui)</b>
 
@@ -90,7 +90,14 @@ python3 bot.py
 ```console
 This is illegal if you use it without the consent of the creators — in this case, the Instagram/Facebook team. I am not accountable for any of your actions; this was merely a speedrun to demonstrate how botters work. Please do not misuse this tool.
 ```
-
+bot
+report Instagram account 
+bot
+bot
+bot
+bot
+bot
+bot
 ---
 
 
